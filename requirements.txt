@@ -1,7 +1,7 @@
-folium
-pandas
 streamlit
+folium
 streamlit-folium
+pandas
 numpy
 python-dotenv
 geopy
